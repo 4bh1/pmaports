@@ -30,3 +30,10 @@ deviceinfo_flash_offset_tags="0x00000100"
 
 deviceinfo_flash_fastboot_partition_dtbo="dtbo"
 deviceinfo_flash_fastboot_partition_vbmeta="vbmeta"
+
+# USB configuration
+deviceinfo_usb_idVendor="0x04e8"
+deviceinfo_usb_idProduct="0x6860"
+deviceinfo_usb_network_function="rndis.usb0"
+deviceinfo_usb_network_host_addr="12:12:12:12:12:12"
+
